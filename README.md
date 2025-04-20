@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>John Doe's Portfolio</h1>
+        <h1>Moeez 's Portfolio</h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
